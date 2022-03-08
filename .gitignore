@@ -1,4 +1,5 @@
 data/
 DS_Store
-*.zip
 .ipynb_checkpoints/
+*.Identifier
+*.csv
